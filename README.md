@@ -16,10 +16,10 @@ Family Travel Tracker is an interactive web application designed to bring your f
 - Postgres ensures sturdy dynamic data storage.
 
 ### Technology Stack
-- [x] Backend: Node.js, Express
-- [x] Frontend: EJS (Embedded JavaScript), HTML, CSS
-- [x] FDatabase: Postgres
-- [x] Map: SVG-based world map for country highlights
+- Backend: Node.js, Express
+- Frontend: EJS (Embedded JavaScript), HTML, CSS
+- Database: Postgres
+- Map: SVG-based world map for country highlights
 
 ### How to Use This Repository
 
@@ -42,11 +42,11 @@ Family Travel Tracker is an interactive web application designed to bring your f
    ```
 
 ### Usage Guide
-1. Open the application in your browser.
-2. Click on 'add family member', type the name and choose a custom color from the list.
-3. Use the form to mark countries each family member has visited.
-4. Make sure you enter a valid country name and don't re-enter a country.
-5. View the personalized, color-coded travel history on the world map :)
+- Open the application in your browser.
+- Click on 'add family member', type the name and choose a custom color from the list.
+- Use the form to mark countries each family member has visited.
+- Make sure you enter a valid country name and don't re-enter a country.
+- View the personalized, color-coded travel history on the world map :)
   
 
 ### Contribution Guidelines
