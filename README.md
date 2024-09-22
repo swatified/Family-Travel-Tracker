@@ -24,3 +24,4 @@ graph LR;
     D --> D1[Postgres]
 
     E --> E1[SVG-based world map for country highlights]
+```
