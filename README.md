@@ -16,10 +16,18 @@ Family Travel Tracker is an interactive web application designed to bring your f
 - Postgres ensures sturdy dynamic data storage.
 
 ### Technology Stack
-- Backend: Node.js, Express
-- Frontend: EJS (Embedded JavaScript), HTML, CSS
-- Database: Postgres
-- Map: SVG-based world map for country highlights
+1. **Backend**
+   - Node.js, Express
+
+2. **Frontend**
+   - EJS (Embedded JavaScript), HTML, CSS
+
+3. **Database*
+   - Postgres
+
+4. **Map**
+   - SVG-based world map for country highlights
+
 
 ### How to Use This Repository
 
