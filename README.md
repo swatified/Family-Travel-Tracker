@@ -22,7 +22,7 @@ Family Travel Tracker is an interactive web application designed to bring your f
 2. **Frontend**
    - EJS (Embedded JavaScript), HTML, CSS
 
-3. **Database*
+3. **Database**
    - Postgres
 
 4. **Map**
