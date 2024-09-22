@@ -7,5 +7,20 @@ Family Travel Tracker is an interactive web application designed to bring your f
 ![teal](https://i.ibb.co/HdspGKN/Screenshot-2024-09-22-182411.png)
 ![green](https://i.ibb.co/H2R4LfW/Screenshot-2024-09-22-181747.png)
 
-> [!TECHSTACK]
-> Essential details that users should not overlook, even when browsing quickly.
+```mermaid
+graph LR;
+    A[Tech Stack] --> B[Backend]
+    A --> C[Frontend]
+    A --> D[Database]
+    A --> E[Map]
+
+    B --> B1[Node.js]
+    B --> B2[Express]
+
+    C --> C1[EJS (Embedded JavaScript)]
+    C --> C2[HTML]
+    C --> C3[CSS]
+
+    D --> D1[Postgres]
+
+    E --> E1[SVG-based world map for country highlights]
