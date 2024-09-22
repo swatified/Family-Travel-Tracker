@@ -17,7 +17,7 @@ graph LR;
     B --> B1[Node.js]
     B --> B2[Express]
 
-    C --> C1[EJS (Embedded JavaScript)]
+    C --> C1[EJS - Embedded JavaScript]
     C --> C2[HTML]
     C --> C3[CSS]
 
